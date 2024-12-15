@@ -32,7 +32,7 @@ This repository contains a professionally designed, fully responsive portfolio w
 
 ## Live Preview
 
-Explore the live version of this portfolio website [here](https://om23aas.github.io/).
+Explore the live version of this portfolio website [here](https://jash.github.io/).
 
 ---
 
