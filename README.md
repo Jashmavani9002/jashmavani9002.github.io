@@ -49,7 +49,7 @@ To get started, ensure you have the following tools installed:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/om23aas/om23aas.github.io.git
+    git clone https://github.com/Jashmavani9002/jash.github.io.git
     ```
 
 2. **Open in Your IDE**: 
